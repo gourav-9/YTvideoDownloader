@@ -1,0 +1,31 @@
+body {
+    font-size: 15pt;
+    
+    height: 105vh;
+    
+}
+.navbar-brand{
+  color: white;
+}
+.navbar{
+  
+}
+.card{
+  margin: auto;
+  margin-top: 10vh;
+  
+}
+.container{
+  margin-top: 5vh;
+}
+
+  
+
+#card{
+  display: none;
+}
+.btn2{
+  display: none;
+  margin: auto;
+margin-top: 5vh;
+}
